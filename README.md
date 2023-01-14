@@ -1,7 +1,7 @@
 # Thesis-Work
 All extra information that could not be put on the thesis like gifs.
 
-##This is for the gifs
+###This is for the gifs###
 
 R=The current robust value
 C=the multiple of 0.1'', where 2 signifies 2(0.1'')=0.2'' and so on
