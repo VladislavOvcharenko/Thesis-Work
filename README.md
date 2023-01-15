@@ -19,4 +19,4 @@ UVs.gif shows how changing from what UV values are used in the synthesis affects
 
 UVs_maskless.gif similar to UVs.gif, but the assumption of the same mask used isn't there anymore
 
-Tapers.gif shows what an ever increasing taper does to the final image
+Tapers.gif shows what an ever increasing taper does to the dirty image
