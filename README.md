@@ -20,3 +20,7 @@ UVs.gif shows how changing from what UV values are used in the synthesis affects
 UVs_maskless.gif similar to UVs.gif, but the assumption of the same mask used isn't there anymore
 
 Tapers.gif shows what an ever increasing taper does to the dirty image
+
+PA.gif shows how incorrect position angles affect the UV plot
+
+INC.gif similarly shows how an incorrect inclination affects the UV plot
