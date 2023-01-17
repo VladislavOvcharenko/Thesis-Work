@@ -19,7 +19,7 @@ M= is the mask used, where there is Big (mask much larger radially to the disk),
 
 <a href="https://github.com/VladislavOvcharenko/Thesis-Work/blob/main/UVs_maskless.gif">UVs_maskless.gif</a> similar to <a href="https://github.com/VladislavOvcharenko/Thesis-Work/blob/main/UVs.gif">UVs.gif</a>, but the assumption of the same mask used isn't there anymore
 
-<a href="https://github.com/VladislavOvcharenko/Thesis-Work/blob/main/Tapers.gif">Tapers.gif</a> shows what an ever increasing taper does to the dirty image
+<a href="https://github.com/VladislavOvcharenko/Thesis-Work/blob/main/Tapers.gif">Tapers.gif</a> shows what an ever increasing taper does to the dirty image, where 22 signifies 2.2'' taper applied
 
 <a href="https://github.com/VladislavOvcharenko/Thesis-Work/blob/main/PA.gif">PA.gif</a> shows how incorrect position angles affect the UV plot
 
